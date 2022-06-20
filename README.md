@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me:
-I am a Devops Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Senior Devops Engineer.
-- :seedling: Exploring Technical Content Writing/Blogs and write blogs on current techonolgies.
+👋 I am a Devops Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I’m working as a Senior Devops Engineer in a not-for-profit organization.
+- :seedling: Exploring Technical Content Writing/Videos and write blogs on current techonolgies.
+- :free: I watch Series/Movies, listen to music and sing.
 
 ---
 
