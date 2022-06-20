@@ -41,3 +41,5 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg" title="atom" alt="atom" width="40" height="40"/>&nbsp;
 </div>
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shydrate&show_icons=true&hide_border=true" />
