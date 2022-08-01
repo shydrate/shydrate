@@ -1,4 +1,4 @@
-### Keybase proof
+<!-- ### Keybase proof
 
 I hereby claim:
 
@@ -65,3 +65,4 @@ Consider the [keybase command line program](https://keybase.io/download).
 # look me up
 keybase id shydrate
 ```
+ -->
