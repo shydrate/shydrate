@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 </div>
 
 ---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shydrate&show_icons=true&locale=en&layout=compact" alt="shydrate" /></p>
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shydrate&show_icons=true&hide_border=true" />
 
