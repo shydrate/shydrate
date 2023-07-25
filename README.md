@@ -45,3 +45,8 @@ Here are some ideas to get you started:
 ---
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shydrate&show_icons=true&hide_border=true" />
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shydrate&" alt="shydrate" /></p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shydrate6&limit=5&theme=flat&combine_all_yearly_contributions=true)
