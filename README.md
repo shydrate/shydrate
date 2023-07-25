@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - :telescope: I’m working as a Devops Engineer in a Leading Bank organization.
 - :seedling: Exploring Technical Content Writing/Videos and write blogs on current techonolgies.
 - :free: I watch Series/Movies, listen to music and sing.
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shydrate&label=Profile%20views&color=0e75b6&style=flat" alt="shydrate" /> </p>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
