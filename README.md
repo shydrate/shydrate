@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me:
 👋 I am a DevSecOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-
+- :telescope: I’m currently working in a Leading Bank organization.
 - :seedling: Exploring Technical Content Writing/Videos and write blogs on current techonolgies.
 - :free: I watch Series/Movies, listen to music and sing.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shydrate&label=Profile%20views&color=0e75b6&style=flat" alt="shydrate" /> </p>
